@@ -5,5 +5,5 @@ st.title('Machine Learning App')
 
 st.write('This is a ml app!')
 
-df = pd.read_csv('https://github.com/cnrkr-dev/data/blob/main/penguins_cleaned1.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/cnrkr-dev/data/master/penguins_cleaned.csv')
 df
